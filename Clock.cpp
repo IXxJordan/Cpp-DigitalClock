@@ -39,7 +39,6 @@ int main()
 			system("CLS");
 			cout << "Current Time (Local):" << "\n";
 			cout << hr << ":"<< min << ":"<< sec << mer << "\n";
-
 		}
 
 		// Update the seconds
